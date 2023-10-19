@@ -1,0 +1,11 @@
+streamlit
+dotenv
+PyPDF2
+langchain.text_splitter
+langchain.embeddings 
+langchain.vectorstores
+langchain.chat_models 
+langchain.memory
+langchain.chains
+htmlTemplates
+langchain.llms
